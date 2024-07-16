@@ -1,0 +1,2 @@
+# ASPNETCore8-WebApi-JWT-Swagger-Extensions-CustomClaims-HttpFiles_ContagemAcessos
+Exemplo de API REST para contagem de acessos criada com o .NET 8 + ASP.NET Core + Web APIs (Controllers), empregando extensões definidas em uma Class Library para utilização de JWT (JSON Web Tokens) e de configurações para que o Swagger suporte tokens. Inclui arquivos .http para testes a partir do VS Code, além de claims em vários formatos.
